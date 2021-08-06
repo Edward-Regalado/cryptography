@@ -60,3 +60,7 @@ refer to supplied unit tests.
 - Use `poetry` to create `caesar-cipher` project.
 - Use the folder created by Poetry as the root of your project's git repository
 - Refer to [Lab Submission Instructions](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/) for detailed instructions.
+
+### Collab & Credit 
+
+- [w3resource](https://www.w3resource.com/python-exercises/string/python-data-type-string-exercise-25.php)
